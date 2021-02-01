@@ -7,9 +7,9 @@ class Connection {
 
       const config = {
         connectionLimit: 100,
-        host: 'localhost',
+        host: 'den1.mssql7.gear.host',
         user: 'root',
-        password: 'password',
+        password: 'Ix2!~yKe51N8',
         database: 'admin'
       }
 
